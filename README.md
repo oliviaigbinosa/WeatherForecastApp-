@@ -12,6 +12,9 @@ PROJECT TITLE:  Weather Forecast App
 
 Overview: This project is a simple Weather Forecast App to display the current weather conditions of locations worldwide.  It makes use of two files, " weather.py " to fetch weather data and " main.py " to handle input and output.
 
+Repository URL: https://github.com/oliviaigbinosa/WeatherForecastApp-
+
+
 Below is the full Software Development Life Cycle (SDLC) of the project:
 
 
